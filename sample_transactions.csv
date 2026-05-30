@@ -1,0 +1,34 @@
+Customer,RiskRating,Country,Counterparty,Amount,UsualAverage,NewCounterparty,AdverseMedia,RiskScore,RiskReasons,InvestigatorSummary,RiskLevel,AlertStatus
+ABC Imports,Low,UK,Supplier A,950,1200,No,No,0,[],"
+Customer: ABC Imports
+
+Risk Score: 0
+
+Risk Indicators:
+
+
+Investigator Recommendation:
+Review transaction activity and perform Enhanced Due Diligence due to identified risk indicators.
+",Low,🟢 Low
+Global Metals Ltd,Medium,UAE,Al Noor Trading,45000,9000,Yes,No,75,"['High Risk Country', 'Unusual Transaction Value', 'New Counterparty']","
+Customer: Global Metals Ltd
+
+Risk Score: 75
+
+Risk Indicators:
+High Risk Country, Unusual Transaction Value, New Counterparty
+
+Investigator Recommendation:
+Review transaction activity and perform Enhanced Due Diligence due to identified risk indicators.
+",Medium,🟠 Medium
+Delta Commodities,High,Russia,Volga Trade,38000,8000,Yes,Yes,115,"['High Risk Country', 'Unusual Transaction Value', 'New Counterparty', 'Adverse Media', 'High Customer Risk']","
+Customer: Delta Commodities
+
+Risk Score: 115
+
+Risk Indicators:
+High Risk Country, Unusual Transaction Value, New Counterparty, Adverse Media, High Customer Risk
+
+Investigator Recommendation:
+Review transaction activity and perform Enhanced Due Diligence due to identified risk indicators.
+",High,🔴 Critical
