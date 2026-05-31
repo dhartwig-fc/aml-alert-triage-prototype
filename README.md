@@ -1,5 +1,6 @@
-Back to Portfolio
-https://dhartwig-fc.github.io
+[← Back to Portfolio](https://dhartwig-fc.github.io)
+
+[LinkedIn](https://www.linkedin.com/in/dan-hartwig-financial-crime) | [GitHub Profile](https://github.com/dhartwig-fc)
 
 # aml-alert-triage-prototype
 
