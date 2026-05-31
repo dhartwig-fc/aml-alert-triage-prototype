@@ -2,8 +2,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/dan-hartwig-financial-crime) | [GitHub Profile](https://github.com/dhartwig-fc)
 
-# aml-alert-triage-prototype
-
 # AML Alert Triage Prototype
 This is a small Python prototype demonstrating how transaction monitoring alerts can be risk-scored and summarised for investigator review.
 
